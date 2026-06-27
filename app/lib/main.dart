@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'routes/app_routes.dart';
+import 'routes/rutas_app.dart';
 
 void main() => runApp(const MyApp());
 
@@ -11,8 +11,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Portafolio Personal',
-      initialRoute: AppRoutes.initialRoute,
-      routes: AppRoutes.getAppRoutes(),
+      initialRoute: RutasApp.initialRoute,
+      routes: RutasApp.getAppRoutes(),
     );
   }
 }

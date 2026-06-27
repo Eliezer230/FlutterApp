@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import '../models/menu_option.dart';
-import '../screens/home_screen.dart';
+import '../screens/pantalla_principal.dart';
 
-class AppRoutes {
-  static const initialRoute = 'home';
+class RutasApp {
+  static const initialRoute = 'principal';
 
   static final menuOptions = <MenuOption>[
     MenuOption(
-        route: 'home',
-        name: 'Inicio',
-        screen: const HomeScreen(),
+        route: 'principal',
+        name: 'Principal',
+        screen: PantallaPrincipal(),
         icon: Icons.home),
   ];
 
