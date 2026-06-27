@@ -15,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Reporte
+
+Si, sé que es una mala practica en github hacer pocos commits. O en este caso, cargar un commit con muchos archivos. Realmente, tuve algunos problemas con mi otra cuenta de github y bueno :/ El punto es que por falta de tiempo, estuve programando un poquito contra reloj y se me olvidaron las buenas prácticas.
